@@ -1,0 +1,56 @@
+{
+  "projectName": "JEE Main 2027 — 50 Days Left (Chaos Classroom)",
+  "visualIdentity": "CHAOS CLASSROOM — THE JEE SURVIVAL UNIVERSE",
+  "character": {
+    "name": "Aarav",
+    "archetype": "Expressive Indian JEE Aspirant",
+    "design": "Messy spiky black hair, oversized charcoal-slate hoodie, backpack, expressive comic eyes, dynamic eyebrows & RMS audio-driven lip-sync",
+    "states": [
+      "panic",
+      "overconfident",
+      "sarcastic",
+      "roast_shock",
+      "confused",
+      "exhausted",
+      "frustrated",
+      "realization",
+      "determined",
+      "focused"
+    ]
+  },
+  "sourceAudio": [
+    {
+      "order": 1,
+      "file": "public/audio/raw/part1.mp3",
+      "durationSeconds": 139.056,
+      "sampleRateHz": 48000,
+      "channels": 1,
+      "bitrateKbps": 128
+    },
+    {
+      "order": 2,
+      "file": "public/audio/raw/part2.mp3",
+      "durationSeconds": 122.64,
+      "sampleRateHz": 48000,
+      "channels": 1,
+      "bitrateKbps": 128
+    },
+    {
+      "order": 3,
+      "file": "public/audio/raw/part3.mp3",
+      "durationSeconds": 172.896,
+      "sampleRateHz": 48000,
+      "channels": 1,
+      "bitrateKbps": 128
+    }
+  ],
+  "combinedAudio": {
+    "narrationFile": "public/audio/narration-combined.mp3",
+    "masterMixFile": "public/audio/master-mix.mp3",
+    "exactDurationSeconds": 434.581,
+    "totalFramesAt30Fps": 13038
+  },
+  "chaptersCount": 6,
+  "scenesCount": 45,
+  "subtitleCuesCount": 139
+}
